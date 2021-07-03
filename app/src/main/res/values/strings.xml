@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Homework_UI</string>
+    <string name="by_signing_in_i_agree_with_terms_of_use_and_privacy_policy">By signing in, I agree with <b><font color="black">Terms of Use</font></b> and <b><font color="black">Privacy Policy</font></b></string>
+</resources>
